@@ -2,6 +2,8 @@
 
 My personal collection of LeetCode problem solutions implemented in Kotlin.
 
+> **Note:** All solutions are solved by me independently. AI is used only to assist with formatting and documentation, not for solving the problems.
+
 ## Structure
 
 Each problem includes multiple solution approaches:
