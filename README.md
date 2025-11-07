@@ -27,5 +27,7 @@ Each solution includes time and space complexity comments at the top of the file
 
 ## Problems Solved
 
-- [1. Two Sum](https://leetcode.com/problems/two-sum/)
-- [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [1. Two Sum (Easy)](https://leetcode.com/problems/two-sum/)
+- [49. Group Anagrams (Medium)](https://leetcode.com/problems/group-anagrams/)
+- [217. Contains Duplicate (Easy)](https://leetcode.com/problems/contains-duplicate/)
+- [242. Valid Anagrams (Easy)](https://leetcode.com/problems/valid-anagram/)
